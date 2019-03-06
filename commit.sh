@@ -9,6 +9,6 @@ fi
 echo "Committing with message $MESSAGE"
 git commit -am $MESSAGE
 git push origin master
-sleep 1000
+sleep 5
 done
 
