@@ -1,6 +1,6 @@
 
 MESSAGE=$1
-if [ -z "$1"]
+if [ -z "$1" ]
 then
 	MESSAGE="Backup"
 fi
